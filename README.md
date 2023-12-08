@@ -1,13 +1,15 @@
-# Привет, меня зовут Александр! 👋
+# Hello, I'm Alexander! 👋
 
-## Обо мне
-Я студент, учусь на курсе "Информационные системы программирование" и также прохожу курсы по разработке нейронных сетей. Мне нравится мир программирования и искусственного интеллекта.
+## About Me
+I am a student currently enrolled in the "Information Systems Programming" course, primarily focusing on learning C#. Additionally, I've recently started delving into Python through specialized courses on neural network development.
 
-## Технологии
-Мои основные языки программирования:
+## Technologies
+My main programming language of study is:
 - C#
 
-## Контакты
-Если у вас есть вопросы, предложения или вы просто хотите пообщаться, вы можете связаться со мной:
-- Электронная почта: newlifefuck@yandex.ru
-- LinkedIn: [t.me/NecroDancerer](ссылка_на_Telegram)
+I am also delving into Python, particularly in the context of neural network development.
+
+## Contact
+If you have any questions, suggestions, or just want to chat, feel free to reach out:
+- Email: newlifefuck@yandex.ru
+- Telegram: t.me/NecroDancerer
