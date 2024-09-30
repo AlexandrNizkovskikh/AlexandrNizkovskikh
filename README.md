@@ -8,3 +8,4 @@ My main programming language of study is:
 - Python
 
 I am also delving into Python, particularly in the context of neural network development.
+t.me/Alexandr_nizkovskih
