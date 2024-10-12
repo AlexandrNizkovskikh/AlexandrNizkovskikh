@@ -32,7 +32,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-**Языковые модели**
+**Языковые модели**  
 ![LLM](https://img.shields.io/badge/-LLMs-ff8800?style=for-the-badge)
 
 **Компьютерное зрение**  
