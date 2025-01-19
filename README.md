@@ -33,7 +33,7 @@ _____________
 ## Проекты из курса:
 _____________
 
-### Мои проекты из курса по обучению можно увидеть [***по данной ссылке***](https://github.com/search?q=owner%3AAlexandrNizkovskikh%20TheFounder&type=code)
+### Мои проекты из курса по обучению можно увидеть [***по данной ссылке***](https://github.com/search?q=owner%3AAlexandrNizkovskikh+TheFounder&type=repositories)
 _____________
 
 _____________
