@@ -26,13 +26,13 @@ _____________
 [**Ссылка на проект**](https://github.com/AlexandrNizkovskikh/LLM)
 
 **Стек:** Hugging, Face, LLM, LLaMA, Index, Langchain, Transformers, PyTorch
-
+--
 ### Анализ производительности моделей YOLO в видеопотоке
 Это исследовательская работа направлена на анализ скорости и точности детекции моделей YOLO от Ultralytics в видеопотоке
 [**Ссылка на проект**](https://github.com/AlexandrNizkovskikh/YOLO-detections)
 
 **Стек:** Ultralytics, YOLO, FiftyOne, OpenCV, NumPy, Pillow, TQDM, FP16, Batch, Processing, FFmpeg
-
+--
 ### Доработка кросс-платформенного приложения
 Добавлено окно авторизации через OpenRouterAI или VSEGPT
 [**Ссылка на проект**](https://github.com/AlexandrNizkovskikh/AIChatFlutter-upgrade-)
